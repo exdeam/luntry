@@ -1,0 +1,2 @@
+infra/zif-cassandra:3.11.13-v20-240422            
+infra/zif-cassandra-exporter:2.3.8-v19-240422
